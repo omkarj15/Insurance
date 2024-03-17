@@ -1,6 +1,6 @@
 # Insurance Fraud Detection Analysis
 
-![Screenshot](Image/Main.png)
+![Screenshot](Image/a.png)
 
 ## Introduction
 
